@@ -47,7 +47,7 @@ Some future improvements for the farm Buddy platform could include:<br>
 •	Incorporating data analytics to provide farmers with insights on product demand and customer preferences.etc..<br>
 <h2>Conclusion</h2><br>
 In conclusion, farm Buddy is a farmer-to-customer online marketplace platform that provides a simple, secure, and cost-effective way for farmers to connect with customers directly. The platform leverages modern technologies such as HTML, CSS, Bootstrap, JavaScript,and AMD Instances to provide a seamless and efficient user experience. The inclusion of a chatbot further enhances the customer experience by providing quick and easy access to important information.<br>
-<h2>Contributors</h2><br>
+<h2>Contributors:</h2><br>
 •Srikar Tenneti<br>
 •Sriraj Tata<br>
 •Sudhish Amiti<br>
