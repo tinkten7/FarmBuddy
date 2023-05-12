@@ -32,20 +32,21 @@ The chatbot is designed to assist customers in finding answers to Frequently Ask
 <h2>Features</h2><br>
 The farm Buddy platform provides the following features:<br>
 •	A simple and intuitive user interface that allows farmers to list their products and customers to search for and purchase these products.<br>
-•	Customers can create and manage their profiles, view their order history, and track their orders.<br>
+•	Customers can create and manage their profiles, view their order , and track their orders.<br>
 •	Farmers can manage their product listings, view orders, and manage their profiles.<br>
 •	The platform is secure and provides encryption for sensitive data such as customer payment information.<br>
 <h2>Getting Started</h2><br>
 1)To get started with the FarmBuddy platform, users must first create an account.<br>
-2)Create your offer by fixing the quantity and price of the product.<br>
+2)The price of the product will be daily updated on the standard basis of their locally state government.<br>
 3)With the help of the maps provided they can meet the individual or transport the goods.<br>
 6)Customers can contact farmers virtually through the video calling feature .<br>
-7)Rating based upon their time of transport,quality of the product<br>
+7)Rating will be done on overall average based upon their time of transport,quality of the product<br>
 <h2>Future Improvements</h2><br>
 Some future improvements for the farm Buddy platform could include:<br>
 •	Integrating additional payment options to provide customers with more flexibility.<br>
-•	Adding a feature that allows customers to rate and review farmers.<br>
+•	Adding a feature that allows customers to rate and review sellers.<br>
 •	Incorporating data analytics to provide farmers with insights on product demand and customer preferences.etc..<br>
+•Adding other technological api's that farmers needed for smart farming.<br>
 <h2>Conclusion</h2><br>
 In conclusion, farm Buddy is a farmer-to-customer online marketplace platform that provides a simple, secure, and cost-effective way for farmers to connect with customers directly. The platform leverages modern technologies such as HTML, CSS, Bootstrap, JavaScript,and AMD Instances to provide a seamless and efficient user experience. The inclusion of a chatbot further enhances the customer experience by providing quick and easy access to important information.<br>
 <h2>Instance Information</h2><br>
@@ -58,6 +59,6 @@ In conclusion, farm Buddy is a farmer-to-customer online marketplace platform th
 <img src="https://user-images.githubusercontent.com/95526528/232858102-55f2ddcd-b4d0-4ee8-8ff8-89170c718bd9.png"><br>
 <h2>Contributors:</h2><br>
 •Srikar Tenneti-Leader,Developer,UI/UX Designer<a href="https://github.com/tinkten7">GITHUB    -</a> <a href="https://www.linkedin.com/in/srikar-tenneti-849522235/">LinkedIn</a><br>
-•Sriraj Tata-Founder,Developer,Cloud Developer,Tester<a href="https://github.com/STRIDER1512">GITHUB    -</a> <a href="https://www.linkedin.com/in/sriraj-tata-0499b7228/">LinkedIn</a><br>
+•Sriraj Tata-Founder,Developer,Cloud Operator,Tester<a href="https://github.com/STRIDER1512">GITHUB    -</a> <a href="https://www.linkedin.com/in/sriraj-tata-0499b7228/">LinkedIn</a><br>
 •Sudhish Amiti-Member,Developer,Backend Developer<a href="https://www.linkedin.com/in/sudhish-amiti-491805224/">LinkedIn</a> <br>
-•Himaja Vendra-Member,Developer,Editing <a href="https://www.linkedin.com/in/himaja-vendra-48581324b/">LinkedIn</a> <br>
+•Himaja Vendra-Member,Developer,Editor <a href="https://www.linkedin.com/in/himaja-vendra-48581324b/">LinkedIn</a> <br>
