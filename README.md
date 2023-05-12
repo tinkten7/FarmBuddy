@@ -26,6 +26,7 @@ The chatbot is designed to assist customers in finding answers to Frequently Ask
 <h3>Tech Stack Used</h3>
 •	Github<br>
 •	Discord<br>
+•	Trello
 •	Unsplash<br>
 •	GeeksforGeeks<br>
 
@@ -34,6 +35,9 @@ The farm Buddy platform provides the following features:<br>
 •	A simple and intuitive user interface that allows farmers to list their products and customers to search for and purchase these products.<br>
 •	Customers can create and manage their profiles, view their order , and track their orders.<br>
 •	Farmers can manage their product listings, view orders, and manage their profiles.<br>
+•	Customers or learners can directly or virtually can interact with the farm patrons.<br>
+•	Farmers Convinience To Check Daily Updates Of Weather And Plan Their Farming Accordingly.
+• By maps It is easy To directly visit your nearby farms.<br>
 •	The platform is secure and provides encryption for sensitive data such as customer payment information.<br>
 <h2>Getting Started</h2><br>
 1)To get started with the FarmBuddy platform, users must first create an account.<br>
@@ -48,7 +52,7 @@ Some future improvements for the farm Buddy platform could include:<br>
 •	Incorporating data analytics to provide farmers with insights on product demand and customer preferences.etc..<br>
 •Adding other technological api's that farmers needed for smart farming.<br>
 <h2>Conclusion</h2><br>
-In conclusion, farm Buddy is a farmer-to-customer online marketplace platform that provides a simple, secure, and cost-effective way for farmers to connect with customers directly. The platform leverages modern technologies such as HTML, CSS, Bootstrap, JavaScript,and AMD Instances to provide a seamless and efficient user experience. The inclusion of a chatbot further enhances the customer experience by providing quick and easy access to important information.<br>
+In conclusion, farm Buddy is a farmer-to-customer online marketplace platform that provides a simple, secure, and cost-effective way for farmers to connect with customers directly. The platform leverages modern technologies such as HTML, CSS, Bootstrap, JavaScript,and AMD Instances to provide a seamless and efficient user experience.Implemented an in-built agrichat bot providing farmers with interactive assistance and answering their questions in real-time.<br>
 <h2>Instance Information</h2><br>
 •Machine Type-t2d-standard-1<br>
 •CPU Platform-AMD Milian<br>
