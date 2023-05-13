@@ -65,4 +65,4 @@ In conclusion, farm Buddy is a farmer-to-customer online marketplace platform th
 •Srikar Tenneti-Leader,Developer,UI/UX Designer<a href="https://github.com/tinkten7">GITHUB    -</a> <a href="https://www.linkedin.com/in/srikar-tenneti-849522235/">LinkedIn</a><br>
 •Sriraj Tata-Founder,Developer,Cloud Operator,Tester<a href="https://github.com/STRIDER1512">GITHUB    -</a> <a href="https://www.linkedin.com/in/sriraj-tata-0499b7228/">LinkedIn</a><br>
 •Sudhish Amiti-Member,Developer,Backend Developer<a href="https://www.linkedin.com/in/sudhish-amiti-491805224/">LinkedIn</a> <br>
-•Himaja Vendra-Member,Developer,Editor <a href="https://www.linkedin.com/in/himaja-vendra-48581324b/">LinkedIn</a> <br>
+•Himaja Vendra-Member,Developer,Editor <a href="https://github.com/himajavendra">GITHUB   -</a> <a href="https://www.linkedin.com/in/himaja-vendra-48581324b/">LinkedIn</a> <br>
