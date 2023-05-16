@@ -15,7 +15,7 @@ Farm Buddy is a farmer-to-customer,B2B,B2C,C2C online marketplace platform that 
 •	JavaScript<br>
 <h3>Backend</h3><br>
 •	Google FireBase<br>
-•	Amd Instance(EC2 Server)<br>
+•	Amd Instance(t2d Server)<br>
 <h3>APIs</h3>
 •	Video SDK<br>
 •	Open Weather<br>
