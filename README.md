@@ -26,7 +26,7 @@ The chatbot is designed to assist customers in finding answers to Frequently Ask
 <h3>Tech Stack Used</h3>
 •	Github<br>
 •	Discord<br>
-•	Trello
+•	Trello<br>
 •	Unsplash<br>
 •	GeeksforGeeks<br>
 
